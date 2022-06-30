@@ -12,10 +12,10 @@
             </div>
             <nav><marquee>
                 <ul>
-                    <li><a href="#Profil">Profil</a></li>
+                    <li><a href="#Profil"><font size="20px"> Profil</a></li>
                     <li><a href="#Pendidikan"> Pendidikan</a></li>
                     <li><a href="#Pengalaman"> Pengalamanan</a></li>
-                    <li><a href="#Personalitas">Personalitas</a></li>
+                    <li><a href="#Personalitas">Personalitas</font></a></li>
                 </ul>
                 </marquee>
             </nav>
