@@ -12,10 +12,10 @@
             </div>
             <nav><marquee>
                 <ul>
-                    <li><a href="#Profil"><font size="20px"> Profil</a></li>
+                    <li><a href="#Profil">Profil</a></li>
                     <li><a href="#Pendidikan"> Pendidikan</a></li>
                     <li><a href="#Pengalaman"> Pengalamanan</a></li>
-                    <li><a href="#Personalitas">Personalitas</font></a></li>
+                    <li><a href="#Personalitas">Personalitas</a></li>
                 </ul>
                 </marquee>
             </nav>
@@ -228,10 +228,10 @@
         </main>
         <footer>
             <p>
-            Mentari Ayu Alysia Sudrajat &#169;2022</p>
-            <marquee> <a href="https://Instagram.com/mentarialysias"><img class="footer-img" src="IG2.png"></a>
+            <font size="1000">Mentari Ayu Alysia Sudrajat &#169;2022</p>
+            <a href="https://Instagram.com/mentarialysias"><img class="footer-img" src="IG2.png"></a>
 					  <a href="https://Facebook.com/mentari.alysia"><img class="footer-img" src="FB2.png"></a>
-			</marquee>
+			
 		</footer>
         <script src="script.js">
         </script>
